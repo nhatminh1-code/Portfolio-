@@ -1,8 +1,28 @@
- HEAD
-# Getting Started with Create React App
+ # 🧠 AI Prompt Engineering Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern React portfolio showcasing AI prompt engineering skills 
+and AI-assisted development workflow.
 
+## 🛠️ Built With
+- **React** — Component-based UI
+- **CSS3** — Custom styling with CSS Variables
+- **JavaScript (ES6+)** — Modern JS features
+
+## 🤖 AI Tools Used in Development
+- **ChatGPT** — Code generation & debugging
+- **Claude AI** — Code review & refactoring
+- **Cursor AI** — AI-powered IDE for development
+
+## ✨ Features
+- ⚡ Responsive design (mobile-friendly)
+- 🎨 Dark theme with gradient accents
+- 📝 Interactive prompt showcase with copy function
+- 🔍 Filter prompts by category
+- ✍️ Typing animation effect
+- 📱 Mobile hamburger menu
+- 🖱️ Smooth scroll navigation
+
+## 📁 Project Structure
 ## Available Scripts
 
 In the project directory, you can run:
@@ -70,6 +90,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-# Portfolio-
-Lean the new way
- origin/main
